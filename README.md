@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Location](https://img.shields.io/badge/Location:-%237289DA.svg?color=green)![Neiva, Huila, Colombia](https://img.shields.io/badge/Neiva,Huila,Colombia-%237289DA.svg?color=blue)
+
 ¡Hola! Soy **Isabella Carrera Cabrera**, y estoy empezando un tecnólogo en el SENA sobre programación de software. Me encantan los animales y disfruto aprender y entender.
 
 ### Educación
