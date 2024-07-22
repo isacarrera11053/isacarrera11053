@@ -7,12 +7,12 @@ Estoy estudiando **Programación de Software** en el **SENA**. Estoy aprendiendo
 
 ### Intereses
 
-- **Animales**: Me gustan mucho los animales y aprender sobre su comportamiento y cuidado.
+- **Animales**: Me gustan mucho los animales y aprender sobre ellos..
 - **Desarrollo Web**: Tengo interés en el desarrollo web con **JavaScript**, **Bootstrap** y estilos CSS modernos.
 
 ### Proyectos
 
-En mi tiempo libre, trabajo en proyectos personales para aplicar lo que aprendo. Algunos de mis proyectos son:
+En mi tiempo libre, trabajo en proyectos personales para aplicar lo que aprendo. Mi proyecto es:
 
 - **Memorice**: Un proyecto de juego usando CSS personalizado, JavaScript y bootstrap.
 
