@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-<!--## Sobre mí
-
 ¡Hola! Soy **Isabella Carrera Cabrera**, y estoy empezando un tecnólogo en el SENA sobre programación de software. Me encantan los animales y disfruto aprender y entender.
 
 ### Educación
@@ -22,17 +19,41 @@ En mi tiempo libre, trabajo en proyectos personales para aplicar lo que aprendo.
 ### Contacto
 
 Siempre estoy abierta a colaborar en proyectos interesantes y aprender de otros desarrolladores. Si quieres conectarte conmigo, no dudes en enviarme un mensaje.
++ **Correo:** isacarrera1105@gmail.com
 
-**isacarrera11053/isacarrera11053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cosas aprendidas
+- [X] Pseudocodigo
+- [x] HTML
+- [X] CSS
+- [ ] JavaScript (Aprendiendo)
+- [ ] Pythom (Aprendiendo)
+- [ ] Base de Datos (Aprendiendo)
 
-Here are some ideas to get you started:
+## Idiomas
++  **Español:** 
++  **Ingles:** (En proceso)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Objetivos
+
+* **Mejorar mis habilidades en lenguajes de programación**: Estoy estudiando para la programación  y asi saber lenguajes importantes para el desarrollo web, como HTML, CSS, JavaScript, etc.
+* **Participar activamente en la comunidad de desarrolladores de software**: Quiero compartir lo que sé, trabajar en proyectos de código abierto y colaborar con otros desarrolladores para crear cosas nuevas.
+  
+* ## Estudios y certificaciones
++ **Bachiller** <sub>Instutucion Educativa Tecnico Superior (Neiva-Huila)</sub>
++ **Tecnico en Analizis y Desarrollo de Software**<sub>Sena ADSO</sub>
+
+## Estudios en proceso
++ **Tegnologo en Analizis y Desarrollo de Software**<sub>Sena ADSO</sub>
+
+## 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=isacarrera11053&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=isacarrera11053&theme=react&hide_border=false)<br/>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=isacarrera11053&icon=8&color=0)](https://visitcount.itsvg.in)
+
+
+
